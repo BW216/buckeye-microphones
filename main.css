@@ -1,0 +1,27 @@
+body {
+  background: url("http://images.unsplash.com/photo-1485579149621-3123dd979885?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&s=2655cb79cebecf09c448c5fc942f9fdb");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#h1 {
+  font-family: "Spectral SC", serif;
+  margin-top: 10%;
+  color: #ffffff;
+}
+
+#h4 {
+  font-family: "Spectral SC", serif;
+  color: #ffffff;
+  margin-bottom: 100px;
+}
+
+li a {
+  color: #ffffff;
+}
+
+.fa-superpowers {
+  color: #800080;
+  margin-bottom: ;
+}
